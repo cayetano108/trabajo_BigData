@@ -17,7 +17,7 @@ La versión final del trabajo puede visualizarse en:
 El título del trabajo es NBA a base de datos.
 
 Este trabajo pretende analizar a fondo la NBA, mi competición deportiva
-farvorita, siendo esta una competición en la que la estadística y el
+favorita, siendo esta una competición en la que la estadística y el
 análisis de datos son muy importantes en todos los sentidos tanto para
 elaborar estrategis, analizar a los rivales, evaluar jugadores,
 confeccionar los equipos, etc…
